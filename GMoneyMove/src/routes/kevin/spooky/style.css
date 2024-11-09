@@ -1,0 +1,21 @@
+body {
+    display: flex-column;
+    align-items: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #252422;
+    color: #eb5e28;
+    padding: 1em;
+}
+
+#output {
+    background-color: #eb5e28;
+    color: #252422;
+    width: 300px;
+}
+
+.backLink{
+    color:#eb5e28;
+    text-align: center;
+    margin-left: auto;
+}
