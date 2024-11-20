@@ -65,7 +65,7 @@
                             </button>
                             {#if aq3}
                                 <div class="kevin-text">
-                                    <p>Chicken Wing!</p>
+                                    <a href="/kevin">Chicken Wing!</a>
                                 </div>
                             {/if}
 
