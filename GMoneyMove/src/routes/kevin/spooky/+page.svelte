@@ -20,7 +20,7 @@
       
     <div>
         <form on:submit={displaySpookyName}>
-        <h3>Input the following info to get your spooky name or <a href="/" class="backLink">Go Back</a></h3>
+        <h3>Input the following info to get your spooky name or <a href="/kevin" class="backLink">Go Back</a></h3>
         <p>Name<br /><input type="text" bind:value={name} placeholder="Name" /></p>
         <p>Birthday<br /><input type="date" bind:value={birthday} /></p>
         <p>Favorite Color</p>
